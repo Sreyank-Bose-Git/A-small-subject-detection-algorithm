@@ -1,3 +1,5 @@
+***The ai.py is the python file***
+
 # A-small-subject-detection-algorithm
 This was an experiment or a project done by me while I was diving towards the transformer architecture and how AI / LLMs actually work. This is nothing close to a real LLM algorithm but it surely taught me something!
 
@@ -29,5 +31,7 @@ I have made this using python! So do not worry, if you believe something is susp
 > If the sentence is already given, it does not do anything.
 
 # I AM VERY GREATFUL!
+
+`print("If you want to improve my code, go ahead!")`
 
 # THANK YOU SO MUCH!
